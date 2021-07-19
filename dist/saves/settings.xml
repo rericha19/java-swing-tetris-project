@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gameSettings>
+    <after_first_move_delay>15</after_first_move_delay>
+    <after_hard_drop_delay>50</after_hard_drop_delay>
+    <bg_image>path</bg_image>
+    <key_down>83</key_down>
+    <key_hard_drop>32</key_hard_drop>
+    <key_left>65</key_left>
+    <key_pause>27</key_pause>
+    <key_right>68</key_right>
+    <key_rotate1>74</key_rotate1>
+    <key_rotate2>76</key_rotate2>
+    <key_swap_held>84</key_swap_held>
+    <language>en</language>
+    <mus_volume>35</mus_volume>
+    <sfx_volume>35</sfx_volume>
+    <show_ghost>true</show_ghost>
+    <side_scroll_speed>6</side_scroll_speed>
+</gameSettings>
